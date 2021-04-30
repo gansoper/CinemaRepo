@@ -1,2 +1,4 @@
 server:
-  port: 8089
+  port: 15400
+  servlet:
+    context-path: /rest-api
